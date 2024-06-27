@@ -1,6 +1,6 @@
 # MyNotesApp
 
-MyNotesApp is a feature-rich notes application that offers secure note-taking with encryption, note tagging, image attachments, and a powerful search function. Ideal for personal and professional use, MyNotesApp ensures your notes are well-organized and accessible.
+NotesApp is a feature-rich notes application that offers secure note-taking with encryption, note tagging, image attachments, and a powerful search function. Ideal for personal and professional use, MyNotesApp ensures your notes are well-organized and accessible.
 
 ## Features
 
